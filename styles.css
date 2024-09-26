@@ -82,3 +82,32 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+.weather{
+    display:none;
+}
+.error{
+    text-align: left;
+    margin-left: 10px;
+    font-size:14px;
+    margin-top:10px;
+    display:none;
+}
+.recent-searches{
+    margin-top: 50px;
+    text-align: left;
+}
+.recent-searches h3{
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.recent-searches ul li{
+    list-style: circle;
+    list-style-position: inside;
+    padding: 0px;
+    cursor: pointer;
+    padding-left: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+    align-items: center;
+}
